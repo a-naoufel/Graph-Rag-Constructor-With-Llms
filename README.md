@@ -20,10 +20,21 @@
 * [cite_start]**Graphes** : Neo4j, Cypher, RDF, SPARQL[cite: 6, 33, 39].
 * [cite_start]**Modélisation** : Ontologies OWL[cite: 29, 40].
 
+<img width="989" height="490" alt="Top-level key coverage" src="https://github.com/user-attachments/assets/2ae3b6d5-b06c-4a43-9cbe-09722ee4bdd4" />
+
+
 ## 🚀 Méthodologie d'Extraction
 1. [cite_start]**Identification des Entités** : Utilisation de l'Auto-Réflexion pour améliorer la couverture des données extraites[cite: 25].
 2. [cite_start]**Prédiction des Relations** : Application du raisonnement *Chain-of-Thought* pour garantir la qualité des liens sémantiques[cite: 26].
 3. [cite_start]**Contrôle Qualité** : Évaluation de la performance via les métriques de Précision, Rappel et F1-score[cite: 33].
+
+<img width="536" height="373" alt="nicaulaus_p3_corrige_italie" src="https://github.com/user-attachments/assets/41793a9d-9933-4178-8988-7364328e0b33" />
+
+<img width="470" height="297" alt="final_p3" src="https://github.com/user-attachments/assets/201f2020-7500-4022-882d-e125f500ff61" />
+
+<img width="503" height="375" alt="p3" src="https://github.com/user-attachments/assets/ad14d580-d445-4916-ae31-05f0c4b4a9a6" />
+
+
 
 ## 👥 Encadrement (LIP6)
 * [cite_start]**Camelia CONSTANTIN** (Équipe BD) [cite: 8]
