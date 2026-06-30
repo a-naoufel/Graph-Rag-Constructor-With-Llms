@@ -30,5 +30,6 @@
 * [cite_start]**Raphaël FOURNIER-S'NIEHOTTA** (Équipe ComplexNetworks) [cite: 9, 10]
 
 ---
-*Projet réalisé dans le cadre d'un stage à Sorbonne Université.*<img width="801" height="739" alt="nicaulas_errer_italie_prompt2" src="https://github.com/user-attachments/assets/1b521e68-b54e-4a1a-a7a2-e1d026f8c08a" />
+*Projet réalisé dans le cadre d'un stage à Sorbonne Université.
+*<img width="801" height="739" alt="nicaulas_errer_italie_prompt2" src="https://github.com/user-attachments/assets/1b521e68-b54e-4a1a-a7a2-e1d026f8c08a" />
 
